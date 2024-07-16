@@ -1,0 +1,7 @@
+blue = "#0070AD"
+sapphire_02 = "#336B7D"
+peacock_02 = "#00B2A2"
+teal_02 = "#00D5D0"
+green_02 = "#33B569"
+sapphire_05 = "#173340"
+dark_grey = "#272936"

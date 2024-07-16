@@ -1,0 +1,6 @@
+qiskit>=1.0
+qiskit[visualization]
+numpy~=1.26
+matplotlib~=3.9
+Pillow~=10.3
+pylatexenc>=2.10

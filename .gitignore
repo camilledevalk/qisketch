@@ -1,0 +1,23 @@
+# Cache files
+.ipynb_checkpoints/
+__pycache__/
+
+# Temporary files
+*.pyc
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# IDE specific files
+# VS Code
+.vscode/
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Hidden OS files
+.DS_Store
