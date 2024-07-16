@@ -2,7 +2,7 @@
 
 Painting with Qiskit allows you to create images using quantum circuits. 
 
-![Mario-Color Circuit](examples/outputs/mario-color-circuit.png)
+![Mario-Color Circuit](examples/outputs/mario-circuit.png)
 
 ## Installation
 
